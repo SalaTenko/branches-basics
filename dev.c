@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("A \n");
+    printf("Za warudo\n");
     return 0;
 }
